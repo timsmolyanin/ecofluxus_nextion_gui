@@ -1,0 +1,63 @@
+- id:0 - None - background
+- q0 - id:1 - out temperature
+- b0 - id:2 - burger menu pressed
+- b0 - id:3 - burger menu
+- q1 - id:4 - 1 angle
+- t0 - id:5 - 1 room temperature
+- q2 - id:6 - 1 angle degree close
+- q2 - id:7 - 1 angle degree open 10
+- q2 - id:8 - 1 angle degree open 20
+- q2 - id:9 - 1 angle degree open 30
+- q2 - id:10 - 1 angle degree open 40
+- q2 - id:11 - 1 angle degree open 50
+- q2 - id:12 - 1 angle degree open 60
+- q2 - id:13 - 1 angle degree open 70
+- q2 - id:14 - 1 angle degree open 80
+- q2 - id:15 - 1 angle degree open 90
+- t1 - None - 1 value of angle
+- t2 - None - 1 value of outside temp
+- b1 - id:16 - 1 manual plus button
+- b1 - id:17 - 1 manual plus button pressed
+- b1 - id:18 - 1 auto normal mode
+- b1 - id:19 - 1 auto normal mode pressed
+- b1 - id:20 - 1 auto normal mode not chosen
+- b2 - id:21 - 1 manual close button
+- b2 - id:22 - 1 manual close button pressed
+- b2 - id:23 - 1 manual open button
+- b2 - id:24 - 1 manual open button pressed
+- b2 - id:25 - 1 auto week mode
+- b2 - id:26 - 1 auto week mode pressed
+- b2 - id:27 - 1 auto week mode not chosen
+- b3 - id:28 - 1 manual minus button
+- b3 - id:29 - 1 manual minus button pressed
+- b3 - id:30 - 1 auto smart week mode
+- b3 - id:31 - 1 auto smart week mode pressed
+- b3 - id:32 - 1 auto smart week mode not chosen
+- b4 - id:33 - 1 manual mode button
+- b4 - id:34 - 1 manual mode button pressed
+- b4 - id:35 - 1 auto mode button
+- b4 - id:36 - 1 auto mode button pressed
+- q3 - id:37 - 1 vent gray
+- q3 - id:38 - 1 vent red
+- q3 - id:39 - 1 vent blue
+- q3 - id:40 - 1 vent green
+- q3 - id:41 - 1 vent blue animation
+- q3 - id:42 - 1 vent blue animation
+- q3 - id:43 - 1 vent blue animation
+- q3 - id:44 - 1 vent blue animation
+- q3 - id:45 - 1 vent blue animation
+- q3 - id:46 - 1 vent blue animation
+- q3 - id:47 - 1 vent blue animation
+- q3 - id:48 - 1 vent blue animation
+- q3 - id:49 - 1 vent blue animation
+- q3 - id:50 - 1 vent blue animation
+- q3 - id:51 - 1 vent green animation
+- q3 - id:52 - 1 vent green animation
+- q3 - id:53 - 1 vent green animation
+- q3 - id:54 - 1 vent green animation
+- q3 - id:55 - 1 vent green animation
+- q3 - id:56 - 1 vent green animation
+- q3 - id:57 - 1 vent green animation
+- q3 - id:58 - 1 vent green animation
+- q3 - id:59 - 1 vent green animation
+- q3 - id:60 - 1 vent green animation
